@@ -8,4 +8,9 @@ hello from local
 second local change
 local change
 change in local
+<<<<<<< HEAD
 change to conflict from local
+=======
+
+change to conflict from remote
+>>>>>>> origin/master
