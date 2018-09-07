@@ -1,2 +1,3 @@
 added from remote
 change from local
+conflict from remote
