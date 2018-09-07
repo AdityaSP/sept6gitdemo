@@ -17,6 +17,9 @@ change to conflict from remote
 some change
 
 git config --global --add diff.tool kdiff3
+<br>
 git config --global --add diff.guitool kdiff3
+<br>
 git config --global --add difftool.kdiff3.path "C:\Program Files\KDiff3\kdiff3.exe"
+<br>
 git config --global --add difftool.kdiff3.trustExitCode false
