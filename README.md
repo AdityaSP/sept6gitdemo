@@ -14,3 +14,4 @@ change to conflict from local
 
 change to conflict from remote
 >>>>>>> origin/master
+some change
