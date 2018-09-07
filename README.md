@@ -8,3 +8,4 @@ hello from local
 second local change
 local change
 change in local
+change to conflict from local
