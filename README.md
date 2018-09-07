@@ -5,3 +5,4 @@ git config --global http.proxy http://www-proxy.us.oracle.com:80
 git config --global https.proxy http://www-proxy.us.oracle.com:80
 `some code here`
 hello from local
+second local change
